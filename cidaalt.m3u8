@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=659066,RESOLUTION=1280x720,CODECS="avc1.4d4020,mp4a.40.2"
+https://59566a7951f71.streamlock.net:8090/tvaparecida/_definst_/tvaparecida.stream/chunklist.m3u8
